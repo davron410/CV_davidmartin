@@ -28,6 +28,8 @@ creado un videojuego
 
 una web 
 
+[ver trabajos](trabajos.md)
+
 # Aficiones
 
 jugar a videojuegos 
