@@ -18,3 +18,15 @@ esto es el ejercicio 33
 
 [Descargar archivo](./trabajos/ejercicio33.docx)
 
+## monitores y ordenadores
+
+esto es un ejercicio de monitores y ordenadores 
+
+[Descargar archivo](./trabajos/monitoressyordenadores.xlsx)
+
+## roma
+
+esto es un trabajo sobre roma
+
+[Descargar archivo](./trabajos/roma.docx)
+
